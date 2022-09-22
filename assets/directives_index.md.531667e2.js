@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.5dc2dcd3.js";const m=JSON.parse('{"title":"Directives","description":"","frontmatter":{"title":"Directives"},"headers":[],"relativePath":"directives/index.md"}'),i={name:"directives/index.md"};function s(a,c,n,o,d,p){return r(),t("div")}const f=e(i,[["render",s]]);export{m as __pageData,f as default};
