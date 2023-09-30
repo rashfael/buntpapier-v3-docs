@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as a,Q as o}from"./chunks/framework.26ee681c.js";const g=JSON.parse('{"title":"Why buntpapier?","description":"","frontmatter":{},"headers":[],"relativePath":"guide/why.md","filePath":"guide/why.md"}'),t={name:"guide/why.md"},n=o("",20),p=[n];function l(r,i,c,u,y,d){return e(),a("div",null,p)}const m=s(t,[["render",l]]);export{g as __pageData,m as default};
